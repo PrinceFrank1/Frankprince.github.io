@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Frank Prince Ukobasi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f2f2f2;
+      color: #333;
+    }
+
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid white;
+      margin-bottom: 15px;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+
+    section {
+      margin-bottom: 40px;
+    }
+
+    h2 {
+      color: #003366;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 10px;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      background: #003366;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <!-- Replace 'your-photo.jpg' with the exact name of your uploaded image -->
+    <img src="your-photo.jpg" alt="Frank Prince Ukobasi">
+    <h1>Frank Prince Ukobasi</h1>
+    <p>Law Student | Public Speaker | Trainer | Blogger | Poet</p>
+    <p>
+      <a href="https://www.linkedin.com/in/frankprinceukobasi" target="_blank">LinkedIn</a> |
+      <a href="https://github.com/frankprince" target="_blank">GitHub</a>
+    </p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I’m Frank Prince Ukobasi, a passionate law student at the University of Uyo, driven by a mission to educate, inspire, and impact lives through my voice and words. Whether it’s through public speaking, poetry, or my blog, I’m committed to excellence, growth, and purpose.
+      </p>
+    </section>
+
+    <section>
+      <h2>Experience</h2>
+      <ul>
+        <li><strong>Law Student</strong> (2024–2029), University of Uyo</li>
+        <li><strong>Public Speaker & Trainer</strong> – delivering inspiring talks and workshops to youth audiences</li>
+        <li><strong>Blogger & Poet</strong> – writing on personal development, justice, and social values</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>Legal research and writing</li>
+        <li>Public speaking and presentation</li>
+        <li>Creative writing (blogs, poetry)</li>
+        <li>Basic HTML/CSS for web content</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li>Building a personal brand portfolio website (this site!)</li>
+        <li>Written and presented scripts for school and community events</li>
+        <li>Curating inspirational blog content for youth empowerment</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>Feel free to reach out or connect with me online. I’m always open to conversations, collaborations, and opportunities to grow.</p>
+      <p>
+        Email: <a href="mailto:frankprinceukobasi@gmail.com">frankprinceukobasi@gmail.com</a><br>
+        LinkedIn: <a href="https://www.linkedin.com/in/frankprinceukobasi" target="_blank">linkedin.com/in/frankprinceukobasi</a>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Frank Prince Ukobasi. All rights reserved.
+  </footer>
+
+</body>
+</html>
